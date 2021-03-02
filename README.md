@@ -4,5 +4,8 @@ This repository contains the files for a binder container of the hydroanalyzer p
 The goal is to execute the hydroanalyzer_gui from the binder.
 
 
-R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-hydroanalyzer/main)
+R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-hydroanalyzer/main)
+
+Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-hydroanalyzer/main?urlpath=rstudio)
+
 Shiny [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-hydroanalyzer/main?urlpath=shiny/hydroanalyzer/)
