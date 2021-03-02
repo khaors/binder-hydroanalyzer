@@ -8,5 +8,5 @@ Shiny [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 
 This repository contains the files for a binder container of the hydroanalyzer package. 
-The goal is to execute the hydroanalyzer_gui from the binder.
+The goal is to execute the hydroanalyzer_gui from the binder without installin the package in the physical machine.
 
